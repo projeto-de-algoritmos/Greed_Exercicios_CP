@@ -22,6 +22,8 @@ Questões envolvendo Algoritmos Ambiciosos resolvidas.
 
 Código: [codefoces/comparisson_strings.cpp](./codeforces/comparison_strings.cpp)
 
+https://github.com/projeto-de-algoritmos/Greed_GreedyProblems/blob/master/codeforces/comparison_strings.cpp#L18-L37
+
 ```cpp
 void solve() {
     int n;
