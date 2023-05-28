@@ -16,9 +16,9 @@ Questões envolvendo Algoritmos Ambiciosos resolvidas.
 
 ## Screenshots
 
-| Problem                   | Judge      | Difficulty | Status      |
-| ------------------------- | ---------- | ---------- | ----------- |
-| Comparison String - 1837B | Codeforces | --         | Accepted ✅ |
+| Problem                   | Author      | Judge      | Difficulty | Status      |
+| ------------------------- | ----------- | ---------- | ---------- | ----------- |
+| Comparison String - 1837B | André Alves | Codeforces | --         | Accepted ✅ |
 
 https://github.com/projeto-de-algoritmos/Greed_GreedyProblems/blob/73f78db93bbeb6285ed828fc791f9bbdda72bb14/codeforces/comparison_strings.cpp#L18-L37
 
