@@ -20,9 +20,11 @@ Questões envolvendo Algoritmos Ambiciosos resolvidas.
 | --------------- | ----------- | ---------- | ---------- | ----------- |
 | Flipper - 1833D | André Alves | Codeforces | 1400       | Accepted ✅ |
 
-https://github.com/projeto-de-algoritmos/Greed_GreedyProblems/blob/73f78db93bbeb6285ed828fc791f9bbdda72bb14/codeforces/comparison_strings.cpp#L18-L37
+https://github.com/projeto-de-algoritmos/Greed_GreedyProblems/blob/f5305fec60df20cb7997f28908908b1ad004bb0f/codeforces/flipper.cpp#L15-L93
 
 Link do AC: https://codeforces.com/contest/1833/submission/206534545
+
+---
 
 | Problem                | Author      | Judge      | Difficulty | Status      |
 | ---------------------- | ----------- | ---------- | ---------- | ----------- |
