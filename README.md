@@ -1,30 +1,17 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Greedy Problems
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
+**Número da Lista**: 2<br>
+**Conteúdo da Disciplina**: Greed<br>
 
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0108011  |  Guilherme Brito Vilas - Bôas |
+| 19/0102390  |  André Macedo Rodrigues Alves |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Questões envolvendo Algoritmos Ambiciosos resolvidas.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
