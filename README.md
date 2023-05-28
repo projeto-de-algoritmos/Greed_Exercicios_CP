@@ -20,34 +20,9 @@ Questões envolvendo Algoritmos Ambiciosos resolvidas.
 | ------------------------- | ---------- | ---------- | ----------- |
 | Comparison String - 1837B | Codeforces | --         | Accepted ✅ |
 
-Código: [codefoces/comparisson_strings.cpp](./codeforces/comparison_strings.cpp)
+https://github.com/projeto-de-algoritmos/Greed_GreedyProblems/blob/73f78db93bbeb6285ed828fc791f9bbdda72bb14/codeforces/comparison_strings.cpp#L18-L37
 
-https://github.com/projeto-de-algoritmos/Greed_GreedyProblems/blob/master/codeforces/comparison_strings.cpp#L18-L37
-
-```cpp
-void solve() {
-    int n;
-    string s;
-    cin>>n>>s;
-    int prev = s[0];
-    int cnt = 1;
-    int mx = 1;
-    for(int i=1; i<n; i++) {
-        if(s[i] == prev) {
-            cnt++;
-        } else {
-            mx = max(cnt, mx);
-            cnt = 1;
-        }
-        prev = s[i];
-    }
-    mx = max(cnt, mx);
-
-    cout<<mx+1<<"\n";
-}
-```
-
-Link AC: https://codeforces.com/contest/1837/submission/207199438
+Link do AC: https://codeforces.com/contest/1837/submission/207199438
 
 ## Instalação
 
