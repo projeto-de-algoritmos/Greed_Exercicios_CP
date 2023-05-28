@@ -34,6 +34,8 @@ https://github.com/projeto-de-algoritmos/Greed_GreedyProblems/blob/9fdd9ca277a2b
 
 Link do AC: https://codeforces.com/contest/1832/submission/206396771
 
+---
+
 | Problem                   | Author      | Judge      | Difficulty | Status      |
 | ------------------------- | ----------- | ---------- | ---------- | ----------- |
 | Comparison String - 1837B | André Alves | Codeforces | --         | Accepted ✅ |
@@ -41,6 +43,8 @@ Link do AC: https://codeforces.com/contest/1832/submission/206396771
 https://github.com/projeto-de-algoritmos/Greed_GreedyProblems/blob/73f78db93bbeb6285ed828fc791f9bbdda72bb14/codeforces/comparison_strings.cpp#L18-L37
 
 Link do AC: https://codeforces.com/contest/1837/submission/207199438
+
+---
 
 ## Instalação
 
