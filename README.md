@@ -51,7 +51,7 @@ Link do AC: https://codeforces.com/contest/1837/submission/207199438
 | ------------------------- | --------------- | ---------- | ---------- | ----------- |
 | Container With Most Water | Guilherme Brito | LeetCode   | Medium     | Accepted ✅ |
 
-https://github.com/projeto-de-algoritmos/Greed_GreedyProblems/blob/73f78db93bbeb6285ed828fc791f9bbdda72bb14/codeforces/comparison_strings.cpp#L18-L37
+https://github.com/projeto-de-algoritmos/Greed_GreedyProblems/blob/master/leetcode/containerWithMostWater.cpp#L1-L22
 
 Screenshot do AC: 
 
@@ -64,7 +64,7 @@ Vídeo de Explicação:
 | ------------------------- | --------------- | ------------------- | ---------- | -------------- |
 | Commando War - UVA11729   | Guilherme Brito | UVA - Online Judge  | Medium     | Accepted ✅    |
 
-https://github.com/projeto-de-algoritmos/Greed_GreedyProblems/blob/73f78db93bbeb6285ed828fc791f9bbdda72bb14/codeforces/comparison_strings.cpp#L18-L37
+https://github.com/projeto-de-algoritmos/Greed_GreedyProblems/blob/master/uva/commandoWar.cpp#L5-L39
 
 Screenshot do AC: 
 
