@@ -46,16 +46,28 @@ Link do AC: https://codeforces.com/contest/1837/submission/207199438
 
 ---
 
-## Instalação
 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+| Problem                   | Author          | Judge      | Difficulty | Status      |
+| ------------------------- | --------------- | ---------- | ---------- | ----------- |
+| Container With Most Water | Guilherme Brito | LeetCode   | Medium     | Accepted ✅ |
 
-## Uso
+https://github.com/projeto-de-algoritmos/Greed_GreedyProblems/blob/73f78db93bbeb6285ed828fc791f9bbdda72bb14/codeforces/comparison_strings.cpp#L18-L37
 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Screenshot do AC: 
 
-## Outros
+Vídeo de Explicação:
 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+---
+
+
+| Problem                   | Author          | Judge               | Difficulty | Status         |
+| ------------------------- | --------------- | ------------------- | ---------- | -------------- |
+| Commando War - UVA11729   | Guilherme Brito | UVA - Online Judge  | Medium     | Accepted ✅    |
+
+https://github.com/projeto-de-algoritmos/Greed_GreedyProblems/blob/73f78db93bbeb6285ed828fc791f9bbdda72bb14/codeforces/comparison_strings.cpp#L18-L37
+
+Screenshot do AC: 
+
+Vídeo de Explicação: 
+
+---
