@@ -55,6 +55,9 @@ https://github.com/projeto-de-algoritmos/Greed_GreedyProblems/blob/6450a99f5f407
 
 Screenshot do AC: 
 
+![Accepted](https://github.com/projeto-de-algoritmos/Greed_GreedyProblems/assets/98705337/c6ee9399-ff9d-47d8-80fe-ee73df9e377b)
+
+
 Vídeo de Explicação: 
 
 https://github.com/projeto-de-algoritmos/Greed_GreedyProblems/assets/98705337/700104bd-456a-403f-9649-87581501a410
@@ -69,6 +72,9 @@ https://github.com/projeto-de-algoritmos/Greed_GreedyProblems/assets/98705337/70
 https://github.com/projeto-de-algoritmos/Greed_GreedyProblems/blob/6450a99f5f407bf2ea7303150852462201a39df1/uva/commandoWar.cpp#L5-L39
 
 Screenshot do AC: 
+
+![Accepted](https://github.com/projeto-de-algoritmos/Greed_GreedyProblems/assets/98705337/eab4518f-07aa-4cc0-9aa9-6a4bce20877c)
+
 
 Vídeo de Explicação: 
 
