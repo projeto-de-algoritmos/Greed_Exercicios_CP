@@ -24,6 +24,8 @@ https://github.com/projeto-de-algoritmos/Greed_GreedyProblems/blob/f5305fec60df2
 
 Link do AC: https://codeforces.com/contest/1833/submission/206534545
 
+[Vídeo de Explicação](https://www.youtube.com/watch?v=IwAL-YGrqE4)
+
 ---
 
 | Problem                | Author      | Judge      | Difficulty | Status      |
@@ -33,6 +35,8 @@ Link do AC: https://codeforces.com/contest/1833/submission/206534545
 https://github.com/projeto-de-algoritmos/Greed_GreedyProblems/blob/9fdd9ca277a2b950218967f8265d30401a465451/codeforces/contrast_value.cpp#L15-L34
 
 Link do AC: https://codeforces.com/contest/1832/submission/206396771
+
+[Vídeo de Explicação](https://www.youtube.com/watch?v=7Owv_dXFDfw)
 
 ---
 
