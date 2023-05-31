@@ -55,8 +55,8 @@ https://github.com/projeto-de-algoritmos/Greed_GreedyProblems/blob/6450a99f5f407
 
 Screenshot do AC: 
 
-Vídeo de Explicação:
-
+Vídeo de Explicação: 
+https://github.com/projeto-de-algoritmos/Greed_GreedyProblems/assets/98705337/700104bd-456a-403f-9649-87581501a410
 ---
 
 
@@ -69,5 +69,8 @@ https://github.com/projeto-de-algoritmos/Greed_GreedyProblems/blob/6450a99f5f407
 Screenshot do AC: 
 
 Vídeo de Explicação: 
+https://github.com/projeto-de-algoritmos/Greed_GreedyProblems/assets/98705337/96e38f0f-4eab-4496-bd72-a859e8f69893
+
+
 
 ---
